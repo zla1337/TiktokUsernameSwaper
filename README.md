@@ -1,5 +1,7 @@
 # TiktokUsernameSwaper
 
+DEMO VIDEO: https://www.youtube.com/watch?v=YOHQjJqOMcM
+
 Features:
 - Multi-threaded
 - Blazing fast
