@@ -1,4 +1,4 @@
-# TiktokUsernameSwaper
+# TiktokUsernameSwaper / Autoclaimer
 
 DEMO VIDEO: https://www.youtube.com/watch?v=YOHQjJqOMcM
 
