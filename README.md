@@ -5,6 +5,7 @@ DEMO VIDEO: https://www.youtube.com/watch?v=YOHQjJqOMcM
 Features:
 - Multi-threaded
 - Blazing fast
+- Target banned usernames
 
 Requirements:
 - Fresh tiktok account
