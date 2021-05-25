@@ -6,7 +6,6 @@ Features:
 - Blazing fast
 
 Requirements:
-- Residential rotating proxies
 - Fresh tiktok account
 - Username you want to swap
 
