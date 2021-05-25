@@ -2,7 +2,6 @@
 
 Features:
 - Multi-threaded
-- Supports proxy list
 - Blazing fast
 
 Requirements:
